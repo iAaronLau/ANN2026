@@ -182,4 +182,4 @@ dependencies:
       - typer-slim==0.21.1
       - websockets==16.0
       - yfinance==1.1.0
-prefix: /Users/shouyueliu/miniforge3/envs/ann_2026
+prefix: /Users/$USER/miniforge3/envs/ann_2026
