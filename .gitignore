@@ -2,3 +2,5 @@
 *DS
 *.pkl
 *.pyc
+challenge_artifacts/
+*.pdf
